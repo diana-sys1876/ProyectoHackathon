@@ -1,0 +1,43 @@
+# =========================
+# Archivos Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs/
+
+# =========================
+# Entornos virtuales
+# =========================
+env/
+venv/
+ENV/
+.venv/
+.pyenv/
+
+# =========================
+# Configuración del sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos de logs y temporales
+# =========================
+*.log
+*.tmp
+*.bak
+
+# =========================
+# Configuración de VS Code
+# =========================
+.vscode/
+
+# =========================
+# Archivos de salida del proyecto
+# =========================
+data/salida/*.xlsx
+data/salida/*.csv

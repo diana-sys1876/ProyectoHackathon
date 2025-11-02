@@ -1,0 +1,11 @@
+# Librerías principales para el ETL
+pandas
+pdfplumber
+sqlalchemy
+psycopg2-binary
+
+# Interfaz gráfica
+tk
+
+# Utilidades
+openpyxl   # Para trabajar con Excel
