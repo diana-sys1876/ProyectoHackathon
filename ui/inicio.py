@@ -83,4 +83,8 @@ def mostrar_inicio():
         height=45
     )
 
-    # Position button over the background ima
+    # Position button over the background image
+    btn.place(x=ancho - 330, y=alto - 200)  
+
+    # Start splash screen loop
+    splash.mainloop()
